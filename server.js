@@ -1,3 +1,6 @@
+/*Small express web API to store and server different quotes
+about computers, coding and technology */
+
 const express = require('express');
 const morgan = require('morgan');
 const app = express();
